@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec4f0028-6f2f-41da-83df-fcb65d6651fc" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/Ejercicio-1/.idea/Unidad-2-POO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicio-1/.idea/Ejercicio-1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;anaestethia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/anaestethia/ejercicio-2.1.1-poo.git&quot;,
+    &quot;accountId&quot;: &quot;f4f24715-ae99-40bf-be6b-9fffb236f427&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.608611948268046" />
+      <entry key="MS500" value="3.1939777480591642" />
+      <entry key="S2" value="10.324849015808567" />
+      <entry key="S5" value="15.441792542524537" />
+      <entry key="S10" value="17.94075495593555" />
+      <entry key="S30" value="22.65878055698658" />
+      <entry key="S60" value="34.58423370335512" />
+      <entry key="M2" value="55.711036312355134" />
+      <entry key="M5" value="100.03485108606604" />
+      <entry key="M10" value="148.02697218672088" />
+      <entry key="M15" value="177.68048088610237" />
+      <entry key="M30" value="221.12964863578935" />
+      <entry key="H1" value="250.52587754578187" />
+      <entry key="H2" value="267.76314488595136" />
+      <entry key="H4" value="277.1154853470178" />
+      <entry key="D1" value="285.3141636867115" />
+      <entry key="W1" value="286.7582057189309" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.87366718708585E-134" />
+      <entry key="S5" value="3.2290664378900136E-54" />
+      <entry key="S10" value="1.7970152298409696E-27" />
+      <entry key="S30" value="1.2755840180695575E-9" />
+      <entry key="S60" value="4.580315283008843E-5" />
+      <entry key="M2" value="0.010669441900192358" />
+      <entry key="M5" value="0.3297526836235784" />
+      <entry key="M10" value="1.1091001768992903" />
+      <entry key="M15" value="1.6852287478069592" />
+      <entry key="M30" value="2.5833620683836287" />
+      <entry key="H1" value="3.2103121155548617" />
+      <entry key="H2" value="3.5822497293323265" />
+      <entry key="H4" value="3.785040226925413" />
+      <entry key="D1" value="3.963295954639629" />
+      <entry key="W1" value="3.9947346418958682" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.5430903111425494" />
+      <entry key="MS500" value="3.168582898698755" />
+      <entry key="S2" value="10.305789291421114" />
+      <entry key="S5" value="15.43062741593398" />
+      <entry key="S10" value="17.93431466925597" />
+      <entry key="S30" value="22.656084300915573" />
+      <entry key="S60" value="34.58219321025577" />
+      <entry key="M2" value="55.718316714106805" />
+      <entry key="M5" value="100.35102969565085" />
+      <entry key="M10" value="149.1178089261962" />
+      <entry key="M15" value="179.34833306892637" />
+      <entry key="M30" value="223.70040737524133" />
+      <entry key="H1" value="253.72854665563938" />
+      <entry key="H2" value="271.34117795455916" />
+      <entry key="H4" value="280.8983098145845" />
+      <entry key="D1" value="289.27707463236254" />
+      <entry key="W1" value="290.7528849638543" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3Ie76RrMBI52SWzYRNTaaHtXPa6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.Persona.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "ml.llm.AcpAgentsConfigurable",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Equipo\IdeaProjects\ejercicio-2.1.1-poo" />
+      <recent name="C:\Users\Equipo\IdeaProjects\ejercicio-2.1.1-poo\Ejercicio-1" />
+      <recent name="C:\Users\Equipo\IdeaProjects\ejercicio-2.1.1-poo\Ejercicio-1\Capturas" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Ejercicio-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Ejercicio-1" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4f0028-6f2f-41da-83df-fcb65d6651fc" name="Changes" comment="" />
+      <created>1788113006138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1788113006138</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creacion de clase persona y llamado a la consola de la misma" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
