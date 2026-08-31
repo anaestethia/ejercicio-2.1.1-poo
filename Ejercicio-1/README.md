@@ -2,19 +2,13 @@
 
         ## Descripción
 
-Este programa realiza [explicación breve de lo que hace el programa].
+Este programa realiza una creacion de una clase llamada Persona y dos objetos (persona1, persona2).
 
-        ## Funcionamiento
+        ## Funcionamiento 
 
-El programa comienza solicitando al usuario [dato].
-Luego [explicación de los pasos principales].
+---
 
         ## Lógica utilizada
 
-Para resolver el ejercicio se utilizó [condicionales/bucles/variables/etc.].
+Para resolver el ejercicio se utilizó [clases/objetos/variables].
 
-El programa:
-        1. Solicita los datos necesarios.
-        2. Procesa la información.
-3. Realiza [operación].
-        4. Muestra el resultado en la consola.
