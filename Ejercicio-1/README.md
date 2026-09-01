@@ -1,14 +1,14 @@
 # Ejercicio 01
 
-        ## Descripción
+## Descripcion
 
 Este programa realiza una creacion de una clase llamada Persona y dos objetos (persona1, persona2).
 
-        ## Funcionamiento 
-
+## Funcionamiento
 ---
+![Uploading Captura codigo.png…]()
 
-        ## Lógica utilizada
+## Logica ultilizada
 
 Para resolver el ejercicio se utilizó [clases/objetos/variables].
 
